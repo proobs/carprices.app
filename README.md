@@ -1,6 +1,5 @@
 # CarPrices.app
 
-## Overview
 CarPrices.app is an advanced tool that queries and stores car prices for over 490 makes and models in the USA. Leveraging Python, Flask, and Pandas on the backend, with a React-based frontend, this app efficiently captures and presents up-to-date car pricing data stored in Firebase.
 
 ## Features
@@ -27,5 +26,5 @@ The app performs the following operations:
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CarPrices.app.git
+git clone https://github.com/proobs/CarPrices.app.git
 cd CarPrices.app
